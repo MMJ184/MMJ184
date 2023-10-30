@@ -1,7 +1,3 @@
-<p align="center">
-  <a href="" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/75753187/123350185-74ce0900-d528-11eb-848d-d92955dbb944.png" alt="my banner"></a>
-</p>
-
 <h3 align="center">
 Hi there, I'm <a href="" target="_blank" rel="noreferrer">MaulikKumar Mangukiya</a> 👋
 </h3>
@@ -11,6 +7,8 @@ I'm a Full-Stack Web Developer 💻!
 </h2> 
 
 I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
+
+My main expertise and experience in .Net and .Net api's with angular. In .Net I know some coding architecture like CQRS, Repository Pattern, MVC, Monolithic, etc., and also know Dapper and Entity framework orm with database first and code first approach.
 
 ### 🤝 Connect with me:
 
