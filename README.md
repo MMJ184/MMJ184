@@ -40,11 +40,12 @@ My main expertise and experience in .Net and .Net api's with angular.
 ## 💼 Technical Skills
 
 ![](https://img.shields.io/badge/Code-.Net-informational?style=flat&logo=.Net&color=61DAFB&logoColor=512bd4)
-![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&color=764ABC)
+![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=Angular&color=764ABC)
+![](https://img.shields.io/badge/Code-Electron-informational?style=flat&logo=Electron&color=764ABC)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
-![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=Ruby&color=CC342D)
-![](https://img.shields.io/badge/Code-Ruby_on_Rails-informational?style=flat&logo=Ruby-On-Rails&color=CC0000)
+![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=Typescript&color=CC342D)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
+![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=SQL&color=CC0000)
 ![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
 ![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
 
