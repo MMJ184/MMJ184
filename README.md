@@ -16,13 +16,13 @@ My main expertise and experience in .Net and .Net api's with angular.
 - Monolithic
 
 .Net ORM
-- <a href="https://github.com/DapperLib">Dapper</a> 
+- <a href="https://github.com/DapperLib">Dapper <img src="https://avatars.githubusercontent.com/u/83077457?s=200&v=4" width="21px"/></a>
 - Entity framework with database first & code first approach.
 
 ### 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/contact-maulik"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="MMJ184 | LinkedIn" width="21px"/></a>
-<a href=""><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a>
+<a href=""><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="MMJ | Medium" width="21px"/></a>
 </br>
 
 ## 🔭 I'm currently working on
