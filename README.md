@@ -30,7 +30,7 @@ My main expertise and experience in .Net and .Net api's with angular. In .Net I 
 
 ## 💼 Technical Skills
 
-![](https://img.shields.io/badge/Code-.Net-informational?style=flat&logo=.Net&color=61DAFB&logoColor=FFCC66)
+![](https://img.shields.io/badge/Code-.Net-informational?style=flat&logo=.Net&color=61DAFB&logoColor=512bd4)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&color=764ABC)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=Ruby&color=CC342D)
