@@ -6,6 +6,20 @@ Hi there, I'm <a href="" target="_blank" rel="noreferrer">MaulikKumar Mangukiya<
 I'm a Full-Stack Web Developer 💻!
 </h2> 
 
+
+I am a passionate full-stack developer. In my career so far I have been lucky enough to get opportunities to work on multiple technologies. My core expertise is in Web Development, Desktop App Development, and Hybrid Mobile Application Development.
+
+Programming languages and Technology I know:-
+-> Frontend: Angular, Electron.js, HTML, CSS, JavaScript, JQuery, 
+-> Backend: C#, ASP.NET Core, Node, ExpressJS, NestJS framework
+-> Database: SQL, MSSQL, MYSQL, MongoDB, Postgres, SQLite
+-> Reporting Services: SQL Server Reporting Services (SSRS)
+-> .NET Structures: CQRS, DDD, Repository pattern, Monolithic 
+
+I am skilled in all aspects of the full software development cycle, from requirements gathering and planning through development, release, and maintenance. In other words, I can do everything you need to build your app from the ground up and get it on the market, which means I can turn your conceptual idea into real working software.
+
+Thank you for visiting my profile and I look forward to hearing from you!!!
+
 I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
 
 My main expertise and experience in .Net and .Net api's with angular.
