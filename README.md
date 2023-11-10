@@ -8,58 +8,72 @@ I'm a Full-Stack Web Developer 💻!
 
 I am a passionate full-stack developer. In my career so far I have been lucky enough to get opportunities to work on multiple technologies. My core expertise is in Web Development,Desktop App Development, and little bit Hybrid Mobile Application Development.
 
-Programming languages & Technology I know:-
+### 💼 Technical Skills & Programming languages I know:-
 
 - Frontend:
-  - Angular
-  - Electron.js
-  - HTML
-  - CSS
-  - JavaScript
-  - JQuery
+
+  ![](https://img.shields.io/badge/Angular-black?logo=angular&logoColor=red)
+  ![](https://img.shields.io/badge/Electron-black?logo=Electron)
+  ![](https://img.shields.io/badge/HTML5-black?logo=HTML5)
+  ![](https://img.shields.io/badge/CSS-black?logo=CSS3)
+  ![](https://img.shields.io/badge/JavaScript-black?logo=JavaScript)
+  ![](https://img.shields.io/badge/JQuery-black?logo=JQuery)
+
 - Backend:
-  - ASP.NET Core
-  - NodeJs
-  - ExpressJS
-  - NestJS framework
+
+  ![](https://img.shields.io/badge/.Net_Core-black?logo=.Net&logoColor=512bd4)
+  ![](https://img.shields.io/badge/Node.js-black?logo=nodedotjs&logoColor=#339933)
+  ![](https://img.shields.io/badge/Express-black?logo=express&logoColor=#000000)
+  ![](https://img.shields.io/badge/Nest.JS-black?logo=NestJS&logoColor=E0234E)
+
+  <!-- ![](https://img.shields.io/badge/Net-black?logo=.Net&logoColor=512bd4&color=61DAFB) -->
+
 - Database:
-  - MSSQL
-  - MYSQL
-  - MongoDB
-  - Postgres
-  - SQLite
+
+  ![](https://img.shields.io/badge/MsSql-black?logo=microsoftsqlserver)
+  ![](https://img.shields.io/badge/MySql-black?logo=mysql)
+  ![](https://img.shields.io/badge/MongoDb-black?logo=MongoDB)
+  ![](https://img.shields.io/badge/PostgreSql-black?logo=postgresql)
+  ![](https://img.shields.io/badge/SQLite-black?logo=SQLite)
+
 - Reporting Services: SQL Server Reporting Services (SSRS)
+
 - .NET Architecture:
-  - CQRS (Command Query Responsibility Segregation)
-  - DDD
-  - Repository pattern
-  - Monolithic
 
-.Net ORM
+  ![](<https://img.shields.io/badge/CQRS_(Command_Query_Responsibility_Segregation)-black?&logoColor=512bd4>)
+  ![](https://img.shields.io/badge/DDD-black?&logoColor=512bd4)
+  ![](https://img.shields.io/badge/Repository_pattern-black?&logoColor=512bd4)
+  ![](https://img.shields.io/badge/Monolithic-black?&logoColor=512bd4)
 
-- Dapper
-- Entity framework (Database first & Code first approach).
+#### .Net ORM
+
+![](https://img.shields.io/badge/Dapper-black.svg?logo=Dapper&logoColor=512bd4)
+![](https://img.shields.io/badge/Entity_Framework-black?&logoColor=512bd4)
+
+<!-- - Dapper
+- Entity framework (Database first & Code first approach). -->
 
 I am skilled in all aspects of the full software development cycle, from requirements gathering and planning through development, release, and maintenance. In other words, I can do everything you need to build your app from the ground up and get it on the market, which means I can turn your conceptual idea into real working software.
 
 ### 🤝 Connect with me:
 
 [![linkedin](https://img.shields.io/badge/linkedin-0e76a8?logo=linkedin)](https://www.linkedin.com/in/contact-maulik)
+[![xing](https://img.shields.io/badge/xing-green?logo=xing)](https://www.linkedin.com/in/contact-maulik)
 
-<a href="https://www.linkedin.com/in/contact-maulik"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="MMJ184 | LinkedIn" width="21px"/></a>
-<a href=""><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="MMJ | Medium" width="21px"/></a>
 </br>
 
 ## 🔭 My work & Project's
 
 - TMS [Transport management system]
-    - Developed TMS in .NET MVC (Repository pattern) with Razor, html, css, javascript. enhancing transport operation efficiency by automating booking, loading, tracking, leading to a 30% improvement in operational processes.
-    - TMS is multi-tenant system. it's manage multiple tenant recrement and configuration in one system and also manage reporting.
-    - Database side used MSsql with Store procedure and to manage in .Net side used Dapper ORM.
-    - SSRS (SQL Server Reporting Services) & PowerBI used as reporting and data analytics
+
+  - Developed TMS in .NET MVC (Repository pattern) with Razor, html, css, javascript. enhancing transport operation efficiency by automating booking, loading, tracking, leading to a 30% improvement in operational processes.
+  - TMS is multi-tenant system. it's manage multiple tenant recrement and configuration in one system and also manage reporting.
+  - Database side used MSsql with Store procedure and to manage in .Net side used Dapper ORM.
+  - SSRS (SQL Server Reporting Services) & PowerBI used as reporting and data analytics
 
 - SLMS [Smart Locker management system]
-    - SLMS backend develop in CQRS (Command Query Responsibility Segregation) Architecture and two frontend in angular one is for admin and second for locker manage.
+
+  - SLMS backend develop in CQRS (Command Query Responsibility Segregation) Architecture and two frontend in angular one is for admin and second for locker manage.
 
 - PMS [Performance management system]
 - Investment opportunity
@@ -105,6 +119,7 @@ I am skilled in all aspects of the full software development cycle, from require
 ![](https://img.shields.io/badge/Tools-VisualStudioCode-informational?style=flat&logo=visualstudiocode&color=CB3837)
 
 ## 📈 GitHub Stats
+
 https://github.com/simple-icons/simple-icons/blob/master/slugs.md
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MMJ184)](https://github.com/MMJ184)
