@@ -6,9 +6,9 @@ Hi there, I'm <a href="" target="_blank" rel="noreferrer">MaulikKumar Mangukiya<
 I'm a Full-Stack Web Developer 💻!
 </h2>
 
-      I am a passionate full-stack developer. In my career so far I have been lucky enough to get opportunities to work on multiple technologies. My core expertise is in Web Development,Desktop App Development, and little bit Hybrid Mobile Application Development.
+I am a passionate full-stack developer. In my career so far I have been lucky enough to get opportunities to work on multiple technologies. My core expertise is in Web Development,Desktop App Development, and little bit Hybrid Mobile Application Development.
 
-      I am skilled in all aspects of the full software development cycle, from requirements gathering and planning through development, release, and maintenance. In other words, I can do everything you need to build your app from the ground up and get it on the market, which means I can turn your conceptual idea into real working software.
+I am skilled in all aspects of the full software development cycle, from requirements gathering and planning through development, release, and maintenance. In other words, I can do everything you need to build your app from the ground up and get it on the market, which means I can turn your conceptual idea into real working software.
 
 ### 💼 Technical Skills & Programming languages I know:-
 
